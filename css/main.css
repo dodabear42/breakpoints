@@ -1,0 +1,19 @@
+/* --------------Mobile-first! ------------------------- */
+body {
+    background: #025b83;
+}
+
+
+/* ----------- Tablets larger than 768px wide ----------- */
+@media (min-width: 768px) {
+	body {
+    background: #e13a42;
+  }
+}
+
+/* ----------- Monitors larger than 1200px wide ----------- */
+@media (min-width: 1200px) {
+    body {
+        background: #f0f6da;
+    }
+}
